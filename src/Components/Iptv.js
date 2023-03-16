@@ -7,15 +7,8 @@ import {MdDriveFileRenameOutline} from 'react-icons/md'
 import {BsShieldLock,BsTelegram} from 'react-icons/bs'
 
 const Iptv = () => {
-  const [search, setSearch] = useState('');
-  // const [favorite, setfavorite] = useState(false);
+  const [search, setSearch] = useState('')
   console.log(dataIptv.length)
-  // var i = 0
-  // while(i<dataIptv.length)
-  // {
-  //   console.log(dataIptv[i].name)
-  //   i++
-  // }
   return (
     <>
     <section className='form-horizontal capy-4 container'>

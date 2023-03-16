@@ -8,7 +8,6 @@ const iptvData = [
         password : "1670703369618",
         bunch : "YES",
         country: "France",
-        // favorite: false,
     },
     {
         //contain
