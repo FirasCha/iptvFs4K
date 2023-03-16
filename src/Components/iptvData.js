@@ -1,6 +1,112 @@
 
 const iptvData = [
     {
+        //containe
+        name : "loodop.top : 201668445779040047/1670703369618",
+        host : "http://loodop.top:8080",
+        username : "201668445779040047",
+        password : "1670703369618",
+        bunch : "YES",
+        country: "France",
+        // favorite: false,
+    },
+    {
+        //contain
+        name : "loodop.top : 641664119636591008/3021664119636591",
+        host : "http://loodop.top:8080",
+        username : "641664119636591008",
+        password : "3021664119636591",
+        bunch : "YES",
+        country: "France",
+    },
+    {
+        //contain
+        name : "loodop.top : 531677874280381071/6001677874280381",
+        host : "http://loodop.top:8080",
+        username : "531677874280381071",
+        password : "6001677874280381",
+        bunch : "YES",
+        country: "France",
+    },
+    {
+        name : "pro.netmos : D949817863601/234433529827",
+        host : "http://pro.netmos.ovh:7355/",
+        username : "D949817863601",
+        password : "234433529827",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
+        //5fif & NOICEE
+        name: "cms.ivsport : 301645556124397/301645556124397",
+        host : "http://cms.ivsport.tv:8080",
+        username : "301645556124397",
+        password :	"301645556124397",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
+        //5fif & NOICEE
+        name: "cms.ivsport : 152217986437989/152217986437989",
+        host : "http://cms.ivsport.tv:8080",
+        username : "152217986437989",
+        password :	"152217986437989",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
+        //5fif & NOICEE
+        name: "cms.ivsport : 302724778267058/302724778267058",
+        host : "http://cms.ivsport.tv:8080",
+        username : "302724778267058",
+        password :	"302724778267058",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
+        //More than noiceee
+        name: "live.maxcimo : ovhsat8269265/8498yu2f9d93r82",
+        host : "http://live.maxcimo.com:8000",
+        username : "ovhsat8269265",
+        password :	"8498yu2f9d93r82",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
+        //NOICE
+        name: "live.maxcimo : zid5maher/yirr848pjfr592mpk",
+        host : "http://live.maxcimo.com:8000",
+        username : "zid5maher",
+        password :	"yirr848pjfr592mpk",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
+        name: "markshow : maher1/123456",
+        host : "http://markshow.live:8080",
+        username : "maher1",
+        password :	"123456",
+        bunch : "YES",
+        country: "Many",
+    },
+    {
+        name: "live.maxcimo : anibal2022/anibal2022",
+        host : "http://streamgo.vip:8008",
+        username : "anibal2022",
+        password :	"anibal2022",
+        bunch : "YES",
+        country: "Latin",
+    },
+    {
+        //5fif
+        name: "u.goldeniptv : firas1/123456",
+        host : "http://u.goldeniptv.com:2052",
+        username : "firas1",
+        password :	"123456",
+        bunch : "YES",
+        country: "Most of it Arab",
+    },
+    {
         //contain
         name : "176.57.50.167 : uptownfp@gmail.com/6372882628",
         host : "http://176.57.50.167:25461",
@@ -129,14 +235,6 @@ const iptvData = [
         password :	"gxyhsmu4",
         bunch : "YES",
         country: "Ar & Fr & others",
-    },
-    {
-        name : "cms.ivsport : 301645556124397/301645556124397",
-        host : "http://cms.ivsport.tv:8080",
-        username : "301645556124397",
-        password :	"301645556124397",
-        bunch : "YES",
-        country: "Most of it Arab",
     },
     {
         name : "ghostiptv : 162CBD932FCA/62a8bcc1d59f2",
@@ -291,5 +389,8 @@ const iptvData = [
     //     bunch : "",
         // country: "",
     // },
+    /**
+    
+    **/
 ]
 export default iptvData;
