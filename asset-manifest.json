@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iptvFs4K/static/css/main.68841a8d.css",
-    "main.js": "/iptvFs4K/static/js/main.06059741.js",
+    "main.js": "/iptvFs4K/static/js/main.d7256d1a.js",
     "static/js/787.2c211545.chunk.js": "/iptvFs4K/static/js/787.2c211545.chunk.js",
     "index.html": "/iptvFs4K/index.html",
     "main.68841a8d.css.map": "/iptvFs4K/static/css/main.68841a8d.css.map",
-    "main.06059741.js.map": "/iptvFs4K/static/js/main.06059741.js.map",
+    "main.d7256d1a.js.map": "/iptvFs4K/static/js/main.d7256d1a.js.map",
     "787.2c211545.chunk.js.map": "/iptvFs4K/static/js/787.2c211545.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68841a8d.css",
-    "static/js/main.06059741.js"
+    "static/js/main.d7256d1a.js"
   ]
 }
