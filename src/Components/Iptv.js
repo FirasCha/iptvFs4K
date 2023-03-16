@@ -3,19 +3,28 @@ import dataIptv from './iptvData'
 
 const iptv = () => {
   return (
-    <div>
-      iptv
-      {dataIptv.map((item,index)=>{
-        return(
-          <div>
-            <h5 className='card-title'>host : {item.host}</h5>
-            <p className='card-text'>username : {item.username}</p>
-            <p className='card-text'>password : {item.password}</p>
-            <p className='card-text'>bunch : {item.bunch}</p>
-          </div>
-        )
-      })
-      }
+    
+    <div className="App">
+      <table>
+        <tr>
+          <th>Name</th>
+          <th>Host</th>
+          <th>Username</th>
+          <th>Password</th>
+          <th>Bunch</th>
+        </tr>
+        {dataIptv.map((val, key) => {
+          return (
+            <tr key={key}>
+              <td>{val.name}</td>
+              <td>{val.host}</td>
+              <td>{val.username}</td>
+              <td>{val.password}</td>
+              <td>{val.bunch}</td>
+            </tr>
+          )
+        })}
+      </table>
     </div>
   )
 }
