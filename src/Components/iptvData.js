@@ -272,5 +272,12 @@ const iptvData = [
         password :	"004528513460",
         bunch : "",
     },
+    {
+        name : "",
+        host : "",
+        username : "",
+        password :	"",
+        bunch : "",
+    },
 ]
 export default iptvData;
