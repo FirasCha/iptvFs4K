@@ -63,13 +63,6 @@ const iptvData = [
         bunch : "",
     },
     {
-        name : "showflix : 269807/269807",
-        host : "http://showflix.org:5890",
-        username : "269807",
-        password :	"269807",
-        bunch : "",
-    },
-    {
         name : "showflix : Belgnawi77/nx5gunn2",
         host : "http://showflix.org:5890",
         username : "Belgnawi77",
