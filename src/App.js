@@ -14,7 +14,6 @@ function App() {
           <Route path='/iptvFs4K/iptNotWorking' element={<IptvNotWorkingptv/>}></Route>
         </Routes>
       </BrowserRouter>
-      
     </div>
   );
 }

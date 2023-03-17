@@ -1,6 +1,14 @@
 
 const iptvData = [
     {
+        name : "a",
+        host : "aa",
+        username : "a",
+        password : "a",
+        bunch : "a",
+        country: "a",
+    },
+    {
         name : "obsfullhd.tv : ExchangeBabar/aCbSSBAF7T",
         host : "http://obsfullhd.tv:25461",
         username : "ExchangeBabar",
