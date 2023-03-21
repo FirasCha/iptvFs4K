@@ -10,6 +10,41 @@ const iptvData = [
     // },
     
     {
+        //rzine
+        name : "obshd.tv : stevegombo/jpXtTT88qk",
+        host : "http://obshd.tv:25461",
+        username :  "stevegombo" ,
+        password : "jpXtTT88qk" ,
+        bunch : "YES",
+        country: "Arab",
+    },
+    {
+        name : "nadtv.xyz : fannansat@live.fr_018502/67460095",
+        host : "http://nadtv.xyz:80",
+        username : "fannansat@live.fr_018502",
+        password : "67460095&",
+        bunch : "YES",
+        country: "Many",
+    },
+    {
+        //5fif
+        name : "sub.flood-wall.net : 3143554012318735/2598854265",
+        host : "http://sub.flood-wall.net:80",
+        username : "3143554012318735",
+        password : "2598854265",
+        bunch : "YES",
+        country: "Many",
+    },
+    {
+        //SOOO niceee
+        name : "xtra.fireottplus : 319503061668/189806991085",
+        host : "http://xtra.fireottplus.com:2052",
+        username : "319503061668",
+        password : "189806991085",
+        bunch : "YES",
+        country: "Arab",
+    },
+    {
         name : "tbs-tv : dark/kittylinetv",
         host : "http://tbs-tv.com:8080",
         username : "dark",

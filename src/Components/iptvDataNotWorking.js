@@ -91,8 +91,6 @@ const iptvDataNotWorking = [
         bunch : "YES",
         country: "USA",
     },
-    /**Trying */
-
     {
         name : "176.57.50.167 : 535712/023768",
         host : "http://176.57.50.167:25461",
@@ -105,7 +103,6 @@ const iptvDataNotWorking = [
         username : "550299",
         password : "747632",
     },
-
     {
         name : "watch-myjokertv : ‌taz203038/whmZtzyhI7",
         host : "http://watch-myjokertv.xyz:8080",
@@ -113,40 +110,10 @@ const iptvDataNotWorking = [
         password : "whmZtzyhI7",
     },
     {
-        name : "xtra.fireottplus : 319503061668/189806991085",
-        host : "http://xtra.fireottplus.com:2052",
-        username : "319503061668",
-        password : "189806991085",
-    },
-    {
-        name : "sub.flood-wall.net : 3143554012318735/2598854265",
-        host : "http://sub.flood-wall.net:80",
-        username : "3143554012318735",
-        password : "2598854265",
-    },
-    {
         name : "ttv.bz : NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD",
         host : "http://ttv.bz:80",
         username : "NXDGDFGFGHFGNVBCVBCBNGBFG",
         password : "Vj5jmJR4aD",
-    },
-    {
-        name : "s1.pandatv.tn : 21112022/21112023",
-        host : "http://s1.pandatv.tn:8000",
-        username : "21112022",
-        password  : "21112023",
-    },
-    {
-        name : "nadtv.xyz : iwWsGYliWf/KNm4bT65ji",
-        host : "http://nadtv.xyz:80",
-        username : "iwWsGYliWf",
-        password : "KNm4bT65ji",
-    },
-    {
-        name : "nadtv.xyz : fannansat@live.fr_018502/67460095",
-        host : "http://nadtv.xyz:80",
-        username : "fannansat@live.fr_018502",
-        password : "67460095&",
     },
     {
         name : "nadtv.xyz : bilalninjaUIG5XNPXqF/qWgOSjlxEe",
@@ -161,164 +128,213 @@ const iptvDataNotWorking = [
         password : "ry1aWJx5yE",
     },
     {
-        name : "obshd.tv : stevegombo/jpXtTT88qk",
-        host : "http://obshd.tv:25461",
-        username :  "stevegombo" ,
-        password : "jpXtTT88qk" ,
-    },
-    /**
-     *  
+        name : "1next.live : 47474747/47474747",
         host : "http://1next.live:2082" ,
         password : "47474747" ,
         username : "47474747"  ,
+},
+    /**Trying */
 
+        {
+        name : "dnsplay.xyz : rwngtbmi/60sPa6Nx2n",
+        host : "http://dnsplay.xyz:80",
         username : "rwngtbmi" ,
         password : "60sPa6Nx2n" ,
-        host : "http://dnsplay.xyz:80",
-
+},
+        {
+        name : "higherpro.xyz : 20654977/010323",
+        host : "http://higherpro.xyz:8080",
         username : "20654977" ,
         password : "010323"  ,
-        host : "http://higherpro.xyz:8080",
-
+},
+        {
+        name : "magicoiptv.org : obs63736/WJ4XGhLMjE",
         host : "http://magicoiptv.org:8080",
         username : "obs63736",
         password : "WJ4XGhLMjE",
-
+},
+        {
+        name : "magicoiptv.org : silenttrix/GZUk0wjZrg6EiAFX2Fhr",
         host : "http://magicoiptv.org:8080",
         username : "silenttrix",
         password : "GZUk0wjZrg6EiAFX2Fhr",
 
-
+},
+        {
+        name : "premiumiptv : Murat5678/NgUHeQJB7w",
         host : "http://premiumiptv.at:8000/",
         username : "Murat5678",
         password : "NgUHeQJB7w",
-
+},
+        {
+        name : "kuchini : ace2524d/3fdc8fcf19",
         host : "http://kuchini.site:8080",
         username : "ace2524d",
         password : "3fdc8fcf19",
-
-        host : "http://xtream-ie.com:80",
-        username : "mo3adc30v1",
-        password : "o3adc30v1" ,
-
-        host : "http://line.365tv.xyz:8060",
-        username : "HNf5n8njq9FK",
-        password : "betasee4j8Gq",
-
+},
+        {
+        name : "web2021 : 995129749770276/1436099739279598",
         host : "http://web2021.biz:8080",
         username : "995129749770276",
         password : "1436099739279598",
-
+},
+        {
+        name : "web2021 : 997103466534055/1328868451062589",
         host : "http://web2021.biz:8080",
         username : "997103466534055",
         password : "1328868451062589",
-
+},
+        {
+        name : "web2021 : 994305707732681/2999841282609850",
         host : "http://web2021.biz:8080",
         username : "994305707732681",
         password : "2999841282609850",
-
+},
+        {
+        name : "web2021 : 999832469220738/6107605325989426",
         host : "http://web2021.biz:8080",
         username : "999832469220738",
         password : "6107605325989426",
-
+},
+        {
+        name : "web2021 : 998743472478818/8009419215843082",
         host : "http://web2021.biz:8080",
         username : "998743472478818",
         password : "8009419215843082",
-
+},
+        {
+        name : "web2021 : 993675125719979/7426945236977190",
         host : "http://web2021.biz:8080",
         username : "993675125719979",
         password : "7426945236977190",
-
+},
+        {
+        name : "web2021 : 996253211904782/5388659550808370",
         host : "http://web2021.biz:8080",
         username : "996253211904782",
         password : "5388659550808370",
-
+},
+        {
+        name : "",
         host : "http://xtra.fireottplus.com:2052",
         username : "PREFRECYVISIONkdfskfksklf",
         password : "t5GVqyDL7bUckjdksjdk",
-
+},
+        {
+        name : "smartes-plus : 45694678382157/45694678382157",
         host : "http://smartes-plus.com:1996/",
         username : "45694678382157",
         password : "45694678382157",
-        
+        },
+        {
+        name : "smartes-plus : 45861761087609/45861761087609",
         host : "http://smartes-plus.com:1996/",
         username : "45861761087609",
         password : "45861761087609",
-
+},
+        {
+        name : "smartes-plus : 45526828768118/45526828768118",
         host : "http://smartes-plus.com:1996/",
         username : "45526828768118",
         password : "45526828768118",
-
+},
+        {
+        name : "smartes-plus : 45556433476481/45556433476481",
         host : "http://smartes-plus.com:1996/",
         username : "45556433476481",
         password : "45556433476481",
-        
+        },
+        {
+        name : "smartes-plus : 45275997833146/45275997833146",
         host : "http://smartes-plus.com:1996/",
         username : "45275997833146",
         password : "45275997833146",
-
-        host : "http://loodop.top:8080",
-        username : "201668445779040047",
-        password : "1670703369618",
-
-        host : "http://iptv.ndasat.xyz:88/",
-        username : "553114794326775",
-        password : "553114794326775",
-
-        host : "http://iptv.ndasat.xyz:88/",
-        username : "228149239766012",
-        password : "228149239766012",
-
+},
+        {
+        name : "iptv.ndasat : 228584403986534/228584403986534",
         host : "http://iptv.ndasat.xyz:88/",
         username : "228584403986534",
         password : "228584403986534",
-
-        Host : "iptv.journalsat.com:25461",
+},
+        {
+        name : "iptv.journalsat : 258651559/journalsat",
+        host : "http://iptv.journalsat.com:25461",
         Username : "258651559",
         Password : "journalsat",
-
-        host : http://opplex.tv:8080,
-        username : 1234567890,
-        password : 1234567890,
-
-        URL: http://opplex.tv:8080,
+},
+        {
+        name : "opplex.tv : 1234567890/1234567890",
+        host : "http://opplex.tv:8080",
+        username : "1234567890",
+        password : "1234567890",
+},
+        {
+        name : "opplex.tv : 123123123/123123123",
+        host: "http://opplex.tv:8080",
         username : "123123123",
         password : "123123123",
-
+},
+        {
+        name : "opplex.tv : 10000/10000",
         host : "http://opplex.tv:8080",
         username : "10000",
         password : "10000",
-
-        URL: http://opplex.tv:8080,
+},
+        {
+        name : "opplex.tv : 10201020/10201020",
+        host : "http://opplex.tv:8080",
         username : "10201020",
         password : "10201020",
-
+        },
+        {
+        name : "opplex.tv : 22334455/22334455",
         host : "http://opplex.tv:8080",
         username : "22334455",
         password : "22334455",
-
+        },
+        {
+        name : "opplex.tv : 1231231/1231231",
         host : "http://opplex.tv:8080",
         username : "1231231",
         password : "1231231",
-
+        },
+        {
+        name : "opplex.tv : 12345123/12345123",
         host : "http://opplex.tv:8080",
         username : "12345123",
         password : "12345123",
-
+        },
+        {
+        name : "77.247.109.54 : Sheila89/Sheila89",
         host : "http://77.247.109.54:80",
         username : "Sheila89",
         password : "Sheila89",
-
+        },
+        {
+        name : "eyetv.site : sam/sam",
         host : "http://eyetv.site:8080",
         username : "sam",
         password : "sam",
-
+        },
+        {
+        name : "eyetv.site : 8888/8888",
         host : "http://eyetv.site:8080",
         username : "8888",
         password : "8888",
-
+        },
+        {
+        name : "eyetv.site : 12345/12345",
         host : "http://eyetv.site:8080",
         username : "12345",
         password : "12345",
-     */
+        },
+        {
+        name : "live.eagleeye : razkorazko/razkorazko",
+        host: "http://live.eagleeye.capital:80",
+        username : "razkorazko",
+        password : "razkorazko",
+       },
+    /**
+     * 
+    */
 ]
