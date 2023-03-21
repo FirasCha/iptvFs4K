@@ -19,6 +19,36 @@ const Iptv = () => {
   //   console.log("same date")
   // }
 
+  const [sortKey, setSortKey] = useState(null);
+  const [sortOrder, setSortOrder] = useState('asc');
+
+  const sortedData = dataIptv.sort((a, b) => {
+    if (sortKey) {
+      if (sortOrder === 'asc') {
+        return a[sortKey] > b[sortKey] ? 1 : -1;
+      } else {
+        return a[sortKey] < b[sortKey] ? 1 : -1;
+      }
+    } else {
+      return 0;
+    }
+  });
+
+  const handleSort = (key) => {
+    if (key === sortKey) {
+      setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+    } else {
+      setSortKey(key);
+      setSortOrder('asc');
+    }
+  };
+  const getSortIcon = (key) => {
+    if (key === sortKey) {
+      return sortOrder === 'asc' ? '▲' : '▼';
+    } else {
+      return '';
+    }
+  };
   return (
     <>
       <section className='form-horizontal capy-4 container'>
@@ -49,19 +79,36 @@ const Iptv = () => {
         <table className="table table-striped table-dark">
           <thead className="thead-dark">
             <tr>
-              <th>
+              <th style={{cursor:"pointer"}}
+                onClick={() => handleSort('name')}
+              >
                 <MdDriveFileRenameOutline />
-                Name
+                Name {getSortIcon('name')}
               </th>
-              <th><TbWorld /> Host</th>
-              <th><HiOutlineUserCircle /> Username</th>
+              <th style={{cursor:"pointer"}}
+                onClick={() => handleSort('host')}
+              >
+                <TbWorld /> 
+                Host {getSortIcon('host')}
+              </th>
+              <th style={{cursor:"pointer"}}
+                onClick={() => handleSort('username')}
+              >
+                <HiOutlineUserCircle /> 
+                Username {getSortIcon('username')}
+              </th>
               <th><BsShieldLock /> Password</th>
-              <th data-sortable="true"><BsCalendar3 /> Date Expiration</th>
+              <th style={{cursor:"pointer"}}
+                onClick={() => handleSort('expiredDate')}
+              >
+                <BsCalendar3 /> 
+                Date Expiration {getSortIcon('expiredDate')}
+              </th>
               <th><TbCategory2 /> Foot Or No</th>
               <th><TbFlag /> country</th>
             </tr>
           </thead>
-          {dataIptv
+          {sortedData
             .filter((item) => {
               return search === ''
                 ? item
