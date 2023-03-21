@@ -51,7 +51,7 @@ const Iptv = () => {
             .filter((item) => {
               return search === ''
                 ? item
-                : item.username.includes(search);
+                : ((item.username.includes(search)) || (item.host.includes(search)));
             })
             .map((val, key) => {
               return (
