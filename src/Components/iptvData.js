@@ -703,6 +703,15 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
     },
+    {
+        //soo noice
+        name : "pablotv : Jamal123/112233",
+        host : "http://pablotv.live:80",
+        username : "Jamal123",
+        password : "112233",
+        bunch: "YES",
+        country: "Most of it Arab",
+    },
     // {
     //     name : "",
     //     host : "",

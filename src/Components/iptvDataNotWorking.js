@@ -276,8 +276,12 @@ const iptvDataNotWorking = [
     },
     /**Trying */
 
-
     /**
-     * 
+     *  {
+     *  name : "",
+        host : "http://pablotv.live:80",
+        username : "Jamal123",
+        password : "112233",
+    },
     */
 ]
