@@ -7,10 +7,10 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/iptvFs4K">
+      <BrowserRouter >
         <Routes>
-          <Route exact path='/' element={<Iptv/>}></Route>
-          <Route path='/iptNotWorking' element={<IptvNotWorkingptv/>}></Route>
+          <Route exact path='/iptvFs4K' element={<Iptv/>}></Route>
+          <Route path='/iptvFs4K/iptNotWorking' element={<IptvNotWorkingptv/>}></Route>
         </Routes>
       </BrowserRouter>
     </div>

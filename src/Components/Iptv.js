@@ -82,27 +82,23 @@ const Iptv = () => {
               <th style={{cursor:"pointer"}}
                 onClick={() => handleSort('name')}
               >
-                <MdDriveFileRenameOutline />
-                Name {getSortIcon('name')}
+                <MdDriveFileRenameOutline /> Name {getSortIcon('name')}
               </th>
               <th style={{cursor:"pointer"}}
                 onClick={() => handleSort('host')}
               >
-                <TbWorld /> 
-                Host {getSortIcon('host')}
+                <TbWorld /> Host {getSortIcon('host')}
               </th>
               <th style={{cursor:"pointer"}}
                 onClick={() => handleSort('username')}
               >
-                <HiOutlineUserCircle /> 
-                Username {getSortIcon('username')}
+                <HiOutlineUserCircle /> Username {getSortIcon('username')}
               </th>
               <th><BsShieldLock /> Password</th>
               <th style={{cursor:"pointer"}}
                 onClick={() => handleSort('expiredDate')}
               >
-                <BsCalendar3 /> 
-                Date Expiration {getSortIcon('expiredDate')}
+                <BsCalendar3 /> Date Expiration {getSortIcon('expiredDate')}
               </th>
               <th><TbCategory2 /> Foot Or No</th>
               <th><TbFlag /> country</th>
