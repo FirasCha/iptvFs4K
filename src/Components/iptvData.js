@@ -10,6 +10,15 @@ const iptvData = [
     // },
     
     {
+        //5fif w fih foot only
+        name : "live.eagleeye : razkorazko/razkorazko",
+        host: "http://live.eagleeye.capital:80",
+        username : "razkorazko",
+        password : "razkorazko",
+        bunch : "YES",
+        country: "Arab only",
+       },
+    {
         //rzine
         name : "obshd.tv : stevegombo/jpXtTT88qk",
         host : "http://obshd.tv:25461",

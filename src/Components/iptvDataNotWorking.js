@@ -132,7 +132,33 @@ const iptvDataNotWorking = [
         host : "http://1next.live:2082" ,
         password : "47474747" ,
         username : "47474747"  ,
-},
+    },
+
+    {
+        name : "eyetv.site : 12345/12345",
+        host : "http://eyetv.site:8080",
+        username : "12345",
+        password : "12345",
+    },
+    
+    {
+        name : "eyetv.site : 8888/8888",
+        host : "http://eyetv.site:8080",
+        username : "8888",
+        password : "8888",
+    },
+    {
+        name : "eyetv.site : sam/sam",
+        host : "http://eyetv.site:8080",
+        username : "sam",
+        password : "sam",
+    },
+    {
+        name : "77.247.109.54 : Sheila89/Sheila89",
+        host : "http://77.247.109.54:80",
+        username : "Sheila89",
+        password : "Sheila89",
+    },
     /**Trying */
 
         {
@@ -287,53 +313,23 @@ const iptvDataNotWorking = [
         password : "10201020",
         },
         {
-        name : "opplex.tv : 22334455/22334455",
-        host : "http://opplex.tv:8080",
-        username : "22334455",
-        password : "22334455",
+            name : "opplex.tv : 22334455/22334455",
+            host : "http://opplex.tv:8080",
+            username : "22334455",
+            password : "22334455",
         },
         {
-        name : "opplex.tv : 1231231/1231231",
-        host : "http://opplex.tv:8080",
-        username : "1231231",
-        password : "1231231",
+            name : "opplex.tv : 1231231/1231231",
+            host : "http://opplex.tv:8080",
+            username : "1231231",
+            password : "1231231",
         },
         {
-        name : "opplex.tv : 12345123/12345123",
-        host : "http://opplex.tv:8080",
-        username : "12345123",
-        password : "12345123",
+            name : "opplex.tv : 12345123/12345123",
+            host : "http://opplex.tv:8080",
+            username : "12345123",
+            password : "12345123",
         },
-        {
-        name : "77.247.109.54 : Sheila89/Sheila89",
-        host : "http://77.247.109.54:80",
-        username : "Sheila89",
-        password : "Sheila89",
-        },
-        {
-        name : "eyetv.site : sam/sam",
-        host : "http://eyetv.site:8080",
-        username : "sam",
-        password : "sam",
-        },
-        {
-        name : "eyetv.site : 8888/8888",
-        host : "http://eyetv.site:8080",
-        username : "8888",
-        password : "8888",
-        },
-        {
-        name : "eyetv.site : 12345/12345",
-        host : "http://eyetv.site:8080",
-        username : "12345",
-        password : "12345",
-        },
-        {
-        name : "live.eagleeye : razkorazko/razkorazko",
-        host: "http://live.eagleeye.capital:80",
-        username : "razkorazko",
-        password : "razkorazko",
-       },
     /**
      * 
     */
