@@ -274,14 +274,82 @@ const iptvDataNotWorking = [
         username: "12345123",
         password: "12345123",
     },
+    {
+        name: "kuchini : GenIptvLast/PNl42jl4bzZKJ7pe",
+        host: "http://kuchini.site:8080",
+        username: "GenIptvLast",
+        password: "PNl42jl4bzZKJ7pe",
+        bunch: "YES",
+        country: "Many",
+    },
+    {
+        name: "magicoiptv : octa/DR7sTEGDQ3Zy",
+        host: "http://magicoiptv.org:8080",
+        username: "octa",
+        password: "DR7sTEGDQ3Zy",
+        bunch: "YES",
+        country: "Ar & Fr",
+    },
+    {
+        name: "dominoiptv : akram9uh3sT7/qLDEmyM79nVy",
+        host: "http://dominoiptv.com:2082",
+        username: "akram9uh3sT7",
+        password: "qLDEmyM79nVy",
+        bunch: "YES",
+        country: "Many but not Arabic",
+    },
+    {
+        name: "s1.pandatv : 21112022/21112023",
+        host: "http://s1.pandatv.tn:8000",
+        username: "21112022",
+        password: "21112023",
+        bunch: "YES",
+        country: "Fr & Ar",
+    },
+    {
+        name: "loodop.top : 201668445779040047/1670703369618",
+        host: "http://loodop.top:8080",
+        username: "201668445779040047",
+        password: "1670703369618",
+        bunch: "YES",
+        country: "France",
+    },
+    {
+        name: "live.maxcimo : ovhsat8269265/8498yu2f9d93r82",
+        host: "http://live.maxcimo.com:8000",
+        username: "ovhsat8269265",
+        password: "8498yu2f9d93r82",
+        bunch: "YES",
+        country: "Most of it Arab",
+    },
+    {
+        //NOICE
+        name: "live.maxcimo : zid5maher/yirr848pjfr592mpk",
+        host: "http://live.maxcimo.com:8000",
+        username: "zid5maher",
+        password: "yirr848pjfr592mpk",
+        bunch: "YES",
+        country: "Most of it Arab",
+    },
+    {
+        name: "markshow : maher1/123456",
+        host: "http://markshow.live:8080",
+        username: "maher1",
+        password: "123456",
+        bunch: "YES",
+        country: "Many",
+    },
+    {
+        name: "venomtt : 12345/12345",
+        host: "http://venomtt.com:8000",
+        username: "12345",
+        password: "12345",
+        bunch: "YES",
+        country: "Ar & Eu",
+    },
     /**Trying */
 
     /**
-     *  {
-     *  name : "",
-        host : "http://pablotv.live:80",
-        username : "Jamal123",
-        password : "112233",
-    },
+     * 
     */
 ]
