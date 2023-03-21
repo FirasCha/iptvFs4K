@@ -8,6 +8,25 @@ const iptvData = [
     //     bunch : "c",
     //     country: "c",
     // },
+    
+    {
+        name : "tbs-tv : dark/kittylinetv",
+        host : "http://tbs-tv.com:8080",
+        username : "dark",
+        password : "kittylinetv",
+        bunch : "YES",
+        country: "Many",
+    },
+    {
+        //Noice w mnadhem
+        name : "ghostiptv : 001243249AD2/637a806ef1e3b",
+        host : "http://ghostiptv.vip:80",
+        username : "001243249AD2",
+        password : "637a806ef1e3b",
+        bunch : "YES",
+        country: "Most of it Arab",
+
+    },
     {
         name : "obsfullhd.tv : ExchangeBabar/aCbSSBAF7T",
         host : "http://obsfullhd.tv:25461",
@@ -47,14 +66,6 @@ const iptvData = [
         password : "CGcttIYsyXE",
         bunch : "YES",
         country: "Many",
-    },
-    {
-        name : "abc123.digital : rmlgc@yahoo.com/SKBlAQNPP4",
-        host : "http://abc123.digital:8080",
-        username : "rmlgc@yahoo.com",
-        password : "SKBlAQNPP4",
-        bunch : "YES",
-        country: "USA",
     },
     {
         name : "nadtv.xyz : iwWsGYliWf/KNm4bT65ji",

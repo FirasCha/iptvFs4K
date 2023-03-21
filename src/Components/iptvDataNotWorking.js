@@ -77,73 +77,97 @@ const iptvDataNotWorking = [
         username : "@Chopo31",
         password : "bdkcne637283Smzkf",
     },
-    /**Trying */
-    /**
-     *  host : "http://balkanfree.net:25461",
+    {
+        name : "balkanfree : 9LEMOVAGFAPQNG8/L86PUGFQE0VQ3Q1",
+        host : "http://balkanfree.net:25461",
         username : "9LEMOVAGFAPQNG8",
         password : "L86PUGFQE0VQ3Q1",
+    },
+    {
+        name : "abc123.digital : rmlgc@yahoo.com/SKBlAQNPP4",
+        host : "http://abc123.digital:8080",
+        username : "rmlgc@yahoo.com",
+        password : "SKBlAQNPP4",
+        bunch : "YES",
+        country: "USA",
+    },
+    /**Trying */
 
-
-        host : "http://ghostiptv.vip:80",
-        username : "001243249AD2",
-        password : "637a806ef1e3b",
-
-
+    {
+        name : "176.57.50.167 : 535712/023768",
         host : "http://176.57.50.167:25461",
         username : "535712",
         password : "023768",
-
-
+    },
+    {
+        name : "176.57.50.167 : 550299/747632",
         host : "http://176.57.50.167:25461",
         username : "550299",
         password : "747632",
+    },
 
-
+    {
+        name : "watch-myjokertv : ‌taz203038/whmZtzyhI7",
         host : "http://watch-myjokertv.xyz:8080",
         username : "‌taz203038",
         password : "whmZtzyhI7",
-
-        host : "http://tbs-tv.com:8080",
-        username : "dark",
-        password : "kittylinetv",
-
+    },
+    {
+        name : "xtra.fireottplus : 319503061668/189806991085",
         host : "http://xtra.fireottplus.com:2052",
         username : "319503061668",
         password : "189806991085",
-
+    },
+    {
+        name : "sub.flood-wall.net : 3143554012318735/2598854265",
         host : "http://sub.flood-wall.net:80",
         username : "3143554012318735",
         password : "2598854265",
-
+    },
+    {
+        name : "ttv.bz : NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD",
         host : "http://ttv.bz:80",
         username : "NXDGDFGFGHFGNVBCVBCBNGBFG",
         password : "Vj5jmJR4aD",
-
+    },
+    {
+        name : "s1.pandatv.tn : 21112022/21112023",
         host : "http://s1.pandatv.tn:8000",
         username : "21112022",
         password  : "21112023",
-
+    },
+    {
+        name : "nadtv.xyz : iwWsGYliWf/KNm4bT65ji",
         host : "http://nadtv.xyz:80",
         username : "iwWsGYliWf",
         password : "KNm4bT65ji",
-
-
+    },
+    {
+        name : "nadtv.xyz : fannansat@live.fr_018502/67460095",
         host : "http://nadtv.xyz:80",
         username : "fannansat@live.fr_018502",
         password : "67460095&",
-
+    },
+    {
+        name : "nadtv.xyz : bilalninjaUIG5XNPXqF/qWgOSjlxEe",
         host : "http://nadtv.xyz:80",
         username : "bilalninjaUIG5XNPXqF",
         password : "qWgOSjlxEe",
-
+    },
+    { 
+        name : "nadtv.xyz : okBXtm2duZ/ry1aWJx5yE",
         host : "http://nadtv.xyz:80",
         username : "okBXtm2duZ",
         password : "ry1aWJx5yE",
-
+    },
+    {
+        name : "obshd.tv : stevegombo/jpXtTT88qk",
         host : "http://obshd.tv:25461",
         username :  "stevegombo" ,
         password : "jpXtTT88qk" ,
-
+    },
+    /**
+     *  
         host : "http://1next.live:2082" ,
         password : "47474747" ,
         username : "47474747"  ,
