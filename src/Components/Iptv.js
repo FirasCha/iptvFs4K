@@ -79,23 +79,23 @@ const Iptv = () => {
         <table className="table table-striped table-dark">
           <thead className="thead-dark">
             <tr>
-              <th style={{cursor:"pointer"}}
+              <th style={{ cursor: "pointer" }}
                 onClick={() => handleSort('name')}
               >
                 <MdDriveFileRenameOutline /> Name {getSortIcon('name')}
               </th>
-              <th style={{cursor:"pointer"}}
+              <th style={{ cursor: "pointer" }}
                 onClick={() => handleSort('host')}
               >
                 <TbWorld /> Host {getSortIcon('host')}
               </th>
-              <th style={{cursor:"pointer"}}
+              <th style={{ cursor: "pointer" }}
                 onClick={() => handleSort('username')}
               >
                 <HiOutlineUserCircle /> Username {getSortIcon('username')}
               </th>
               <th><BsShieldLock /> Password</th>
-              <th style={{cursor:"pointer"}}
+              <th style={{ cursor: "pointer" }}
                 onClick={() => handleSort('expiredDate')}
               >
                 <BsCalendar3 /> Date Expiration {getSortIcon('expiredDate')}
@@ -113,7 +113,7 @@ const Iptv = () => {
             .map((val, key) => {
               return (
                 <tbody>
-                  <tr >
+                  <tr>
                     <td>{val.name}</td>
                     <td>{val.host}</td>
                     <td>{val.username}</td>

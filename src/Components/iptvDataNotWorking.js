@@ -237,7 +237,7 @@ const iptvDataNotWorking = [
         host: "http://opplex.tv:8080",
         username: "10201020",
         password: "10201020",
-    }, 
+    },
     {
         name: "opplex.tv : 1234567890/1234567890",
         host: "http://opplex.tv:8080",
@@ -347,9 +347,22 @@ const iptvDataNotWorking = [
         bunch: "YES",
         country: "Ar & Eu",
     },
+    {
+        name: "scorpione : LHOCIEN/MO7AMED2",
+        host : "http://scorpione.net:25461",
+        username: "LHOCIEN",
+        password : "MO7AMED2",
+    },
+    {
+        name: "4khdtv : oz - yakupaltintepe/Gg52aBJqM3",
+        host : "http://4khdtv.eu:80",
+        username: "oz-yakupaltintepe",
+        password : "Gg52aBJqM3",
+    },
     /**Trying */
-
+    
     /**
      * 
+        
     */
 ]
