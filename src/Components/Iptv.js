@@ -49,6 +49,14 @@ const Iptv = () => {
       return '';
     }
   };
+  // extract usernames into an array
+  const usernames = dataIptv.map((item) => item.username);
+  // filter out non-duplicate usernames
+  const duplicateUsernames = usernames.filter((username, index) => usernames.indexOf(username) !== index); 
+
+  if (duplicateUsernames.length > 0) {
+    console.log('The following usernames are repeated: ', duplicateUsernames);
+  }
   return (
     <>
       <section className='form-horizontal capy-4 container'>
