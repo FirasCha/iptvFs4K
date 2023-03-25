@@ -31,6 +31,7 @@
   font-weight: bold;
   border-radius: 0.25rem;
   margin-left: 0.5rem;
+  animation: new-flag 1s ease-in-out infinite;
 }
 .new-flag-red {
   background-color: #cc333b;
@@ -39,6 +40,19 @@
 .App-link {
   color: #61dafb;
 }
+
+@keyframes new-flag {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
 
 @keyframes App-logo-spin {
   from {
