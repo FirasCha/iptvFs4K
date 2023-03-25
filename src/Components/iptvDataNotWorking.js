@@ -413,77 +413,49 @@ const iptvDataNotWorking = [
         country: "Fr & Ar & many others",
         expiredDate : "11/11/2023",
     },
-    /**Trying */
     {
-        name : "",
-        host : "http://xtra.fireottplus.com:2052",
-        username : "PREFRECYVISIONkdfskfksklf",
-        password : "t5GVqyDL7bUckjdksjdk",
-    },
-    {
-        name : "",
+        name : "xtream-ie : mo3ad6yu1/mo3ad6yu1",
         host : "http://xtream-ie.com:80",
         username: "mo3ad6yu1",
         password: "mo3ad6yu1",
     },
     {
-        name : "",
-        host : "http://iptv.ndasat.xyz:88",
-        username: "937325188757940",
-        password: "937325188757940",
-    },
-    {
-        name : "",
-        host : "http://1.tvdiptv.com:2082",
-        username: "47474747",
-        password: "47474747",
-    },
-    {
-        name : "",
+        name : "u.goldeniptv : 123456/mylaptop",
         host : "http://u.goldeniptv.com:2052",
         username: "123456",
         password: "mylaptop",
     },
     {
-        name : "",
+        name : "u.goldeniptv : 123456/samer1",
         host : "http://u.goldeniptv.com:2052",
         username: "123456",
         password: "samer1",
     },
     {
-        name : "",
+        name : "u.goldeniptv : 123456/098765",
         host : "http://u.goldeniptv.com:2052",
         username: "123456",
         password: "098765",
     },
     {
-        name : "",
+        name : "ttv.bz : m2r9EhQfqT/dmMB57FjXv21",
         host : "http://ttv.bz:80",
         username: "m2r9EhQfqT",
         password: "dmMB57FjXv21",
     },
     {
-        name : "",
+        name : "nasaiptv : sameh/sameh123",
         host : "http://nasaiptv.com:8080",
         username: "sameh",
         password: "sameh123",
     },
+    /**Trying */
+    
+   
     /**
      * 
      *  
-     
-        
-
-----------------------
-        
-
------------------------
-        
-
------------------------
-        
-
------------------------
+    
         
     */
 ]

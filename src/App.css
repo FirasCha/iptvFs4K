@@ -26,11 +26,15 @@
 .new-flag {
   display: inline-block;
   padding: 0.25rem;
-  background-color: green;
+  background-color: #60b848;
   color: black;
   font-weight: bold;
   border-radius: 0.25rem;
   margin-left: 0.5rem;
+}
+.new-flag-red {
+  background-color: #cc333b;
+  color: white;
 }
 .App-link {
   color: #61dafb;

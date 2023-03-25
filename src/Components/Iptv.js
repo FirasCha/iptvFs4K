@@ -56,9 +56,12 @@ const Iptv = () => {
     console.log('The following usernames are repeated: ', duplicateUsernames);
   }
   /** */
-  const today = new Date().toISOString().slice(0, 10);
-  const newData = dataIptv.filter((data) => data.dateofadd === today);
-  console.log(newData)
+  const today = new Date();
+  const yesterday = new Date(today);
+  yesterday.setDate(today.getDate() - 1);
+  const todayString = today.toISOString().slice(0, 10);
+  const yesterdayString = yesterday.toISOString().slice(0, 10);
+  console.log()
   return (
     <>
       <section className='form-horizontal capy-4 container'>
@@ -127,8 +130,10 @@ const Iptv = () => {
                     <td>{val.name}</td>
                     <td>{val.host}</td>
                     <td>{val.username}{" "}
-                      {val.dateofadd === today ? (
+                    {val.dateofadd === todayString ? (
                         <span className="new-flag">New</span>
+                      ) : val.dateofadd === yesterdayString ? (
+                        <span className="new-flag new-flag-red">New</span>
                       ) : null}
                     </td>
                     <td>{val.password}</td>

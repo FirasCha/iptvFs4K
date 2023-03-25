@@ -8,6 +8,26 @@ const iptvData = [
     //     bunch : "c",
     //     country: "c",
     // },
+    {
+        name : "1.tvdiptv : 47474747/47474747",
+        host : "http://1.tvdiptv.com:2082",
+        username: "47474747",
+        password: "47474747",
+        bunch: "YES",
+        country: "Most of it Arab",
+        expiredDate : "25/11/2023",
+        dateofadd : "2023-03-25"
+    },
+    {
+        name : "iptv.ndasat : 937325188757940/937325188757940",
+        host : "http://iptv.ndasat.xyz:88",
+        username: "937325188757940",
+        password: "937325188757940",
+        bunch: "YES",
+        country: "Most of it Arab",
+        expiredDate : "17/4/2023",
+        dateofadd : "2023-03-25"
+    },
 
     // {
     //     //bnin
@@ -151,7 +171,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "8/11/2023",
-        dateofadd : ""
+        dateofadd : "2023-03-24"
     },
     {
         name: "marobox : fannansat@live.fr_018502/67460095",
@@ -161,7 +181,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "21/6/2023",
-        dateofadd : ""
+        dateofadd : "2023-03-24"
     },
     {
         name: "marobox : rJiab4LQqp/IbIEeNcQ2m",
@@ -171,6 +191,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "23/8/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "1.revportal.eu : SPIDER_gqjFnd/Ggztsw8Rs2",
@@ -180,6 +201,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "29/1/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "4k-sat : 123456789e/123456789e",
@@ -189,6 +211,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "17/6/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "ghostiptv : test55/test55",
@@ -198,6 +221,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "18/7/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "pro.xviptv : V20t11cyNoogD/a2EUMA4UMw",
@@ -207,6 +231,7 @@ const iptvData = [
         bunch: "YES",
         country: "Ar & Fr",
         expiredDate : "21/11/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "tbs-tv : dark/kittylinetv",
@@ -216,6 +241,7 @@ const iptvData = [
         bunch: "YES",
         country: "Many",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         //Noice w mnadhem
@@ -226,6 +252,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "21/11/2023",
+        dateofadd : "2023-03-24"
 
     },
     {
@@ -236,6 +263,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         name: "ttv.bz : xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9",
@@ -245,6 +273,7 @@ const iptvData = [
         bunch: "YES",
         country: "Spain",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         name: "playhispano.org : eliaseggy787/JRZpSNT6Bv",
@@ -254,6 +283,7 @@ const iptvData = [
         bunch: "YES",
         country: "Spain",
         expiredDate : "6/4/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "viptv.me : iptenjoyim/3GaALqqI2tcL",
@@ -263,6 +293,7 @@ const iptvData = [
         bunch: "YES",
         country: "Many",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         name: "platin4k.eu : kLbWNZDHm3/CGcttIYsyXE",
@@ -272,6 +303,7 @@ const iptvData = [
         bunch: "YES",
         country: "Many",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         name: "nadtv.xyz : iwWsGYliWf/KNm4bT65ji",
@@ -281,6 +313,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "24/5/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "nadtv.xyz : hZYvpDPDhm/YnZoBQsVze",
@@ -290,6 +323,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "1/9/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "nadtv.xyz : tvip02_873579/62041085",
@@ -299,6 +333,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "20/9/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "dontuse.offshorerev : _1Qu0vn/W4xYBm8N2k",
@@ -308,6 +343,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "12/4/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "dontuse.offshorerev : SPIDER_Ton5in/jC0QjAlgjG",
@@ -317,6 +353,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "16/11/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "dontuse.offshorerev : SPIDER_QD0pxg/cb7BLoXif4",
@@ -326,6 +363,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "12/5/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "dontuse.offshorerev : mag00:1A:79:33:25:BF/O9E8AAMwt8",
@@ -335,6 +373,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "18/5/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "dontuse.offshorerev : x9nzSkBc/M9PhuE2R1Q",
@@ -344,6 +383,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "15/1/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "dontuse.offshorerev : mag00:1A:79:33:03:F0/aXP4YbpMm8",
@@ -353,6 +393,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "21/8/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "appleuhd : zf5d1jx1/qe4qtfra",
@@ -362,6 +403,7 @@ const iptvData = [
         bunch: "YES",
         country: "Spain",
         expiredDate : "9/6/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaza1.ddns : Fernando14/140123",
@@ -371,6 +413,7 @@ const iptvData = [
         bunch: "YES",
         country: "Spain",
         expiredDate : "15/1/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "pprotv : 20042004/20202020",
@@ -380,6 +423,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "28/4/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "iptv.ndasat : 228149239766012/228149239766012",
@@ -389,6 +433,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "28/8/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "iptv.ndasat : 553114794326775/553114794326775",
@@ -398,6 +443,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "30/7/2023",
+        dateofadd : "2023-03-24"
     },
     {
         //contain
@@ -408,6 +454,7 @@ const iptvData = [
         bunch: "YES",
         country: "France",
         expiredDate : "25/9/2023",
+        dateofadd : "2023-03-24"
     },
     {
         //contain
@@ -418,6 +465,7 @@ const iptvData = [
         bunch: "YES",
         country: "France",
         expiredDate : "3/6/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "pro.netmos : D949817863601/234433529827",
@@ -427,6 +475,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         //5fif & NOICEE
@@ -437,6 +486,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "1/2/2024",
+        dateofadd : "2023-03-24"
     },
     {
         //5fif & NOICEE
@@ -447,6 +497,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "18/7/2023",
+        dateofadd : "2023-03-24"
     },
     // {
     //     //5fif & NOICEE
@@ -457,6 +508,7 @@ const iptvData = [
     //     bunch: "YES",
     //     country: "Most of it Arab",
     //     expiredDate : "24/10/2023",
+    //     dateofadd : "2023-03-24"
     // },
     {
         name: "live.maxcimo : anibal2022/anibal2022",
@@ -466,6 +518,7 @@ const iptvData = [
         bunch: "YES",
         country: "Latin",
         expiredDate : "",
+        dateofadd : "2023-03-24"
     },
     {
         //5fif
@@ -476,6 +529,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "",
+        dateofadd : "2023-03-24"
     },
     {
         //contain
@@ -486,6 +540,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it US",
         expiredDate : "",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaintv : 12345/123456",
@@ -495,6 +550,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "",
+        dateofadd : "2023-03-24"
     },
     {
         //contain
@@ -505,6 +561,7 @@ const iptvData = [
         bunch: "YES",
         country: "Ar & Fr",
         expiredDate : "",
+        dateofadd : "2023-03-24"
     },
     {
         name: "w.bs-share : 247179867825237/23141543216575",
@@ -514,6 +571,7 @@ const iptvData = [
         bunch: "YES",
         country: "Ar & Fr",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         name: "mytv.fun : kukaljcanin/8nXWEss2v2 (The best for now)",
@@ -523,6 +581,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & others",
         expiredDate : "",
+        dateofadd : "2023-03-24"
     },
     {
         name: "m3u.sea-iptv : 1z8kwjj4yo/1fna8pvg",
@@ -532,6 +591,7 @@ const iptvData = [
         bunch: "YES",
         country: "Ar & Eu & US",
         expiredDate : "1/3/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "xtream-ie : mo3adc30v1/mo3adc30v1",
@@ -541,6 +601,7 @@ const iptvData = [
         bunch: "YES",
         country: "Many",
         expiredDate : "26/4/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "u.goldeniptv : samer6/123456",
@@ -550,6 +611,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "19/11/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "ghostiptv : 162CBD932FCA/62a8bcc1d59f2",
@@ -559,6 +621,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "13/6/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaintv : axdfg/876699",
@@ -568,6 +631,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "7/9/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "revteam4 : SPIDER_hN9VqD/bHIbtbnbVs",
@@ -577,6 +641,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar & others",
         expiredDate : "2/12/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "revteam4 : zczyh06F/KlorC7VsyA",
@@ -586,6 +651,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "11/3/2024",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaintv : Df6c8ng6/L8c4j5su6",
@@ -595,6 +661,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "13/4/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaintv : 000111222/000111222vv",
@@ -604,6 +671,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "23/7/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaintv : 45124544/64555855",
@@ -613,6 +681,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "11/12/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "zaintv : 05466820130/05466820130",
@@ -622,6 +691,7 @@ const iptvData = [
         bunch: "YES",
         country: "Most of it Arab",
         expiredDate : "3/8/2023",
+        dateofadd : "2023-03-24"
     },
     // {
     //     name: "zaintv : 05314536123/WMuXHbbsxBs5",
@@ -649,6 +719,7 @@ const iptvData = [
         bunch: "YES",
         country: "SPAIN",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     {
         name: "10.ahves89.xyz : merttoprak/16082022@12mert",
@@ -658,6 +729,7 @@ const iptvData = [
         bunch: "YES",
         country: "Turk",
         expiredDate : "17/8/2023",
+        dateofadd : "2023-03-24"
     },
     {
         //contain
@@ -668,6 +740,7 @@ const iptvData = [
         bunch: "YES",
         country: "Spain",
         expiredDate : "23/4/2023",
+        dateofadd : "2023-03-24"
     },
     {
         name: "iptv.dxdtv.xyz : GSXZ77f9qJAX/vWEdbGdgvnjf",
@@ -677,6 +750,7 @@ const iptvData = [
         bunch: "YES",
         country: "Many",
         expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
     },
     // {
     //     name: "line.365tv.xyz : HNf5n8njq9FK/betasee4j8Gq",
