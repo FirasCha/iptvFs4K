@@ -151,6 +151,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "8/11/2023",
+        dateofadd : ""
     },
     {
         name: "marobox : fannansat@live.fr_018502/67460095",
@@ -160,6 +161,7 @@ const iptvData = [
         bunch: "YES",
         country: "Fr & Ar",
         expiredDate : "21/6/2023",
+        dateofadd : ""
     },
     {
         name: "marobox : rJiab4LQqp/IbIEeNcQ2m",

@@ -23,7 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.new-flag {
+  display: inline-block;
+  padding: 0.25rem;
+  background-color: green;
+  color: black;
+  font-weight: bold;
+  border-radius: 0.25rem;
+  margin-left: 0.5rem;
+}
 .App-link {
   color: #61dafb;
 }

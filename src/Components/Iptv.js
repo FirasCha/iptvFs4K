@@ -49,14 +49,16 @@ const Iptv = () => {
       return '';
     }
   };
-  // extract usernames into an array
+  /**Compare 2 dates */
   const usernames = dataIptv.map((item) => item.username);
-  // filter out non-duplicate usernames
   const duplicateUsernames = usernames.filter((username, index) => usernames.indexOf(username) !== index); 
-
   if (duplicateUsernames.length > 0) {
     console.log('The following usernames are repeated: ', duplicateUsernames);
   }
+  /** */
+  const today = new Date().toISOString().slice(0, 10);
+  const newData = dataIptv.filter((data) => data.dateofadd === today);
+  console.log(newData)
   return (
     <>
       <section className='form-horizontal capy-4 container'>
@@ -124,7 +126,11 @@ const Iptv = () => {
                   <tr>
                     <td>{val.name}</td>
                     <td>{val.host}</td>
-                    <td>{val.username}</td>
+                    <td>{val.username}{" "}
+                      {val.dateofadd === today ? (
+                        <span className="new-flag">New</span>
+                      ) : null}
+                    </td>
                     <td>{val.password}</td>
                     <td>{val.expiredDate}</td>
                     <td>{val.bunch}</td>

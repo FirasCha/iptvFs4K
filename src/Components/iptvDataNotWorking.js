@@ -414,9 +414,76 @@ const iptvDataNotWorking = [
         expiredDate : "11/11/2023",
     },
     /**Trying */
-    
+    {
+        name : "",
+        host : "http://xtra.fireottplus.com:2052",
+        username : "PREFRECYVISIONkdfskfksklf",
+        password : "t5GVqyDL7bUckjdksjdk",
+    },
+    {
+        name : "",
+        host : "http://xtream-ie.com:80",
+        username: "mo3ad6yu1",
+        password: "mo3ad6yu1",
+    },
+    {
+        name : "",
+        host : "http://iptv.ndasat.xyz:88",
+        username: "937325188757940",
+        password: "937325188757940",
+    },
+    {
+        name : "",
+        host : "http://1.tvdiptv.com:2082",
+        username: "47474747",
+        password: "47474747",
+    },
+    {
+        name : "",
+        host : "http://u.goldeniptv.com:2052",
+        username: "123456",
+        password: "mylaptop",
+    },
+    {
+        name : "",
+        host : "http://u.goldeniptv.com:2052",
+        username: "123456",
+        password: "samer1",
+    },
+    {
+        name : "",
+        host : "http://u.goldeniptv.com:2052",
+        username: "123456",
+        password: "098765",
+    },
+    {
+        name : "",
+        host : "http://ttv.bz:80",
+        username: "m2r9EhQfqT",
+        password: "dmMB57FjXv21",
+    },
+    {
+        name : "",
+        host : "http://nasaiptv.com:8080",
+        username: "sameh",
+        password: "sameh123",
+    },
     /**
      * 
+     *  
+     
+        
+
+----------------------
+        
+
+-----------------------
+        
+
+-----------------------
+        
+
+-----------------------
         
     */
 ]
