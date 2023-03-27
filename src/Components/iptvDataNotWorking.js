@@ -449,6 +449,24 @@ const iptvDataNotWorking = [
         username: "sameh",
         password: "sameh123",
     },
+    {
+        name: "zaintv : 05340881125/1125",
+        host: "http://zaintv.xyz:8080",
+        username: "05340881125",
+        password: "1125",
+        bunch: "YES",
+        country: "Most of it Arab",
+        expiredDate : "8/5/2023",
+    },
+    {
+        name: "zaintv : 05314536123/WMuXHbbsxBs5",
+        host: "http://zaintv.xyz:8080",
+        username: "05314536123",
+        password: "WMuXHbbsxBs5",
+        bunch: "YES",
+        country: "Most of it Arab",
+        expiredDate : "7/5/2023",
+    },
     /**Trying */
     
    
