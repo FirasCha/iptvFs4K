@@ -8,26 +8,26 @@ const iptvData = [
     //     bunch : "c",
     //     country: "c",
     // },
-    {
-        name : "1.tvdiptv : 47474747/47474747",
-        host : "http://1.tvdiptv.com:2082",
-        username: "47474747",
-        password: "47474747",
-        bunch: "YES",
-        country: "Most of it Arab",
-        expiredDate : "25/11/2023",
-        dateofadd : "2023-03-25"
-    },
-    {
-        name : "iptv.ndasat : 937325188757940/937325188757940",
-        host : "http://iptv.ndasat.xyz:88",
-        username: "937325188757940",
-        password: "937325188757940",
-        bunch: "YES",
-        country: "Most of it Arab",
-        expiredDate : "17/4/2023",
-        dateofadd : "2023-03-25"
-    },
+    // {
+    //     name : "1.tvdiptv : 47474747/47474747",
+    //     host : "http://1.tvdiptv.com:2082",
+    //     username: "47474747",
+    //     password: "47474747",
+    //     bunch: "YES",
+    //     country: "Most of it Arab",
+    //     expiredDate : "25/11/2023",
+    //     dateofadd : "2023-03-25"
+    // },
+    // {
+    //     name : "iptv.ndasat : 937325188757940/937325188757940",
+    //     host : "http://iptv.ndasat.xyz:88",
+    //     username: "937325188757940",
+    //     password: "937325188757940",
+    //     bunch: "YES",
+    //     country: "Most of it Arab",
+    //     expiredDate : "17/4/2023",
+    //     dateofadd : "2023-03-25"
+    // },
 
     // {
     //     //bnin
@@ -163,16 +163,16 @@ const iptvData = [
     //     country: "Fr & Ar",
     //     expiredDate : "24/8/2023",
     // },
-    {
-        name: "marobox : d1UVbDAR56/AGVaiiRrXg",
-        host: "http://marobox.com:1985/",
-        username: "d1UVbDAR56",
-        password: "AGVaiiRrXg",
-        bunch: "YES",
-        country: "Fr & Ar",
-        expiredDate : "8/11/2023",
-        dateofadd : "2023-03-24"
-    },
+    // {
+    //     name: "marobox : d1UVbDAR56/AGVaiiRrXg",
+    //     host: "http://marobox.com:1985/",
+    //     username: "d1UVbDAR56",
+    //     password: "AGVaiiRrXg",
+    //     bunch: "YES",
+    //     country: "Fr & Ar",
+    //     expiredDate : "8/11/2023",
+    //     dateofadd : "2023-03-24"
+    // },
     {
         name: "marobox : fannansat@live.fr_018502/67460095",
         host: "http://marobox.com:1985/",
@@ -613,16 +613,16 @@ const iptvData = [
         expiredDate : "19/11/2023",
         dateofadd : "2023-03-24"
     },
-    {
-        name: "ghostiptv : 162CBD932FCA/62a8bcc1d59f2",
-        host: "http://ghostiptv.vip:80",
-        username: "162CBD932FCA",
-        password: "62a8bcc1d59f2",
-        bunch: "YES",
-        country: "Most of it Arab",
-        expiredDate : "13/6/2024",
-        dateofadd : "2023-03-24"
-    },
+    // {
+    //     name: "ghostiptv : 162CBD932FCA/62a8bcc1d59f2",
+    //     host: "http://ghostiptv.vip:80",
+    //     username: "162CBD932FCA",
+    //     password: "62a8bcc1d59f2",
+    //     bunch: "YES",
+    //     country: "Most of it Arab",
+    //     expiredDate : "13/6/2024",
+    //     dateofadd : "2023-03-24"
+    // },
     {
         name: "zaintv : axdfg/876699",
         host: "http://zaintv.xyz:8080",
@@ -643,16 +643,16 @@ const iptvData = [
         expiredDate : "2/12/2023",
         dateofadd : "2023-03-24"
     },
-    {
-        name: "revteam4 : zczyh06F/KlorC7VsyA",
-        host: "http://revteam4.offshorerev.cc",
-        username: "zczyh06F",
-        password: "KlorC7VsyA",
-        bunch: "YES",
-        country: "Fr & Ar",
-        expiredDate : "11/3/2024",
-        dateofadd : "2023-03-24"
-    },
+    // {
+    //     name: "revteam4 : zczyh06F/KlorC7VsyA",
+    //     host: "http://revteam4.offshorerev.cc",
+    //     username: "zczyh06F",
+    //     password: "KlorC7VsyA",
+    //     bunch: "YES",
+    //     country: "Fr & Ar",
+    //     expiredDate : "11/3/2024",
+    //     dateofadd : "2023-03-24"
+    // },
     {
         name: "zaintv : Df6c8ng6/L8c4j5su6",
         host: "http://zaintv.xyz:8080",
@@ -702,47 +702,37 @@ const iptvData = [
     //     country: "Most of it Arab",
     //     expiredDate : "19/11/2023",
     // },
-    {
-        name: "sdmx.us : belfast/belfast",
-        host: "http://sdmx.us:25461",
-        username: "belfast",
-        password: "belfast",
-        bunch: "YES",
-        country: "SPAIN",
-        expiredDate : "No Expîration",
-        dateofadd : "2023-03-24"
-    },
-    {
-        name: "10.ahves89.xyz : merttoprak/16082022@12mert",
-        host: "http://10.ahves89.xyz:80",
-        username: "merttoprak",
-        password: "16082022@12mert",
-        bunch: "YES",
-        country: "Turk",
-        expiredDate : "17/8/2023",
-        dateofadd : "2023-03-24"
-    },
-    {
-        //contain
-        name: "playhispano : familiaFF/mPQMSsNit9",
-        host: "http://playhispano.org:25461",
-        username: "familiaFF",
-        password: "mPQMSsNit9",
-        bunch: "YES",
-        country: "Spain",
-        expiredDate : "23/4/2023",
-        dateofadd : "2023-03-24"
-    },
-    {
-        name: "iptv.dxdtv.xyz : GSXZ77f9qJAX/vWEdbGdgvnjf",
-        host: "http://iptv.dxdtv.xyz:8080",
-        username: "GSXZ77f9qJAX",
-        password: "vWEdbGdgvnjf",
-        bunch: "YES",
-        country: "Many",
-        expiredDate : "No Expîration",
-        dateofadd : "2023-03-24"
-    },
+    // {
+    //     name: "sdmx.us : belfast/belfast",
+    //     host: "http://sdmx.us:25461",
+    //     username: "belfast",
+    //     password: "belfast",
+    //     bunch: "YES",
+    //     country: "SPAIN",
+    //     expiredDate : "No Expîration",
+    //     dateofadd : "2023-03-24"
+    // },
+    // {
+    //     name: "10.ahves89.xyz : merttoprak/16082022@12mert",
+    //     host: "http://10.ahves89.xyz:80",
+    //     username: "merttoprak",
+    //     password: "16082022@12mert",
+    //     bunch: "YES",
+    //     country: "Turk",
+    //     expiredDate : "17/8/2023",
+    //     dateofadd : "2023-03-24"
+    // },
+    // {
+    //     //contain
+    //     name: "playhispano : familiaFF/mPQMSsNit9",
+    //     host: "http://playhispano.org:25461",
+    //     username: "familiaFF",
+    //     password: "mPQMSsNit9",
+    //     bunch: "YES",
+    //     country: "Spain",
+    //     expiredDate : "23/4/2023",
+    //     dateofadd : "2023-03-24"
+    // },
     // {
     //     name: "line.365tv.xyz : HNf5n8njq9FK/betasee4j8Gq",
     //     host: "http://line.365tv.xyz:8060",

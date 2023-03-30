@@ -467,6 +467,16 @@ const iptvDataNotWorking = [
         country: "Most of it Arab",
         expiredDate : "7/5/2023",
     },
+    {
+        name: "iptv.dxdtv.xyz : GSXZ77f9qJAX/vWEdbGdgvnjf",
+        host: "http://iptv.dxdtv.xyz:8080",
+        username: "GSXZ77f9qJAX",
+        password: "vWEdbGdgvnjf",
+        bunch: "YES",
+        country: "Many",
+        expiredDate : "No Expîration",
+        dateofadd : "2023-03-24"
+    },
     /**Trying */
     
    
